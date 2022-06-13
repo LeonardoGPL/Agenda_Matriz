@@ -1,6 +1,8 @@
 # Agenda_Matriz
 Exercício feito com matriz que simula uma agenda
 ------------------------------------------------------
+# ALGORITMO DO EXERCÍCIO
+
 Inicio
     
     1. Para l de 1 até 3 passo 1 faça
